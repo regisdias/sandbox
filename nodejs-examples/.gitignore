@@ -11,6 +11,7 @@ yarn-error.log
 *.tgz
 
 # Agentic Workflow
-directives/
+directives-old/
 execution/
+AGENTS.md
 
